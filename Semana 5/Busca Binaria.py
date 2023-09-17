@@ -12,7 +12,7 @@ sua função deve imprimir cada um dos índices testados pelo algoritmo.
 lista = [1,2,3,4,5]
 elemento = 5
 
-def busca(lista: lista, elemento):
+def busca(lista, elemento):
         inicio = 0
         fim = len(lista) - 1
 
